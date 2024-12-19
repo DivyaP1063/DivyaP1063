@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divya prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya prakash" height="30" width="40" /></a>
-<a href="https://fb.com/divya prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divya prakash" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divya-prakash1063/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya prakash" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012192015443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divya prakash" height="30" width="40" /></a>
 <a href="https://instagram.com/divya_prakash.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_prakash.__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/divya_p_1063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divya_p_1063" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/divyaprak49tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyaprak49tr" height="30" width="40" /></a>
