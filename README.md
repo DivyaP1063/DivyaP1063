@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/d8bbfe1b86717980b96ff81f7e9440948039aafaa016bdc33291fb8f2bc008c4/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack MERN Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyap1063&label=Profile%20views&color=0e75b6&style=flat" alt="divyap1063" /> </p>
