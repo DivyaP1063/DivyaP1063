@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **divyaprakash1063@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WQvR94YIbZUbapyQDQ_Xg4Yczr2cXJN56etR5Ovcuzo/edit?usp=sharing](https://docs.google.com/document/d/1WQvR94YIbZUbapyQDQ_Xg4Yczr2cXJN56etR5Ovcuzo/edit?usp=sharing)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1WQvR94YIbZUbapyQDQ_Xg4Yczr2cXJN56etR5Ovcuzo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
