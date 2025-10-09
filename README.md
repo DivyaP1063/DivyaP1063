@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS (Backend)**
 
-- 👨‍💻 All of my projects are available at [https://divyap1063.github.io/Portfolio/](https://divyap1063.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://divya-prakash.vercel.app/](https://divya-prakash.vercel.app/)
 
 - 💬 Ask me about **React, MERN, DSA**
 
